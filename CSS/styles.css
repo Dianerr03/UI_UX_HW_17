@@ -23,7 +23,7 @@ section {
  .logo {
     display: inline-block;
     padding: 15px 15px;
-    padding-left: 335px;
+    padding-left: 250px;
 }
 
  .LogoH {
@@ -38,7 +38,7 @@ section {
     display: inline-block;
     margin: 10px;
     align-items: right;
-    padding-right: 310px;
+    padding-right: 150px;
 }
 
  .AboutMeImg {
